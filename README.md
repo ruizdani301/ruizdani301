@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 ## Official Education 👨🏻‍🎓
 2003-2007 | Instituto Tecnologico Antonio Jose Camacho, Cali
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiruizdani301anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
