@@ -6,6 +6,7 @@
 
 ## Official Education 👨🏻‍🎓
 2003-2007 | Instituto Tecnologico Antonio Jose Camacho, Cali
+2021-2022 | Holberton School, Cali
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiruizdani301anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
