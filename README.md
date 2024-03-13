@@ -1,12 +1,12 @@
 ### Hi  I'm Daniel  👋
 **@ruizdani301**
 
+[Click on presentation](http://ruizdani301.pythonanywhere.com/)  🎥🎥🎥
+
 ## Official Education 👨🏻‍🎓
 2003-2007 | Instituto Tecnologico Antonio Jose Camacho, Cali
 
 2021-2022 | Holberton School, Cali
-
-[Click on presentation](http://ruizdani301.pythonanywhere.com/)
 
 
 <a href="https://twitter.com/ruizdani301" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
