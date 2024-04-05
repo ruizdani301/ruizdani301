@@ -1,8 +1,6 @@
 ### Hi  I'm Daniel  👋
 **@ruizdani301**
 
-[Click on presentation](http://ruizdani301.pythonanywhere.com/)  🎥🎥🎥
-
 ## Official Education 👨🏻‍🎓
 | Instituto Tecnologico Antonio Jose Camacho, Cali
 
