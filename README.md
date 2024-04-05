@@ -5,6 +5,8 @@
 
 | Holberton School, Cali
 
+Software Developer and salsa timba music lover 
+
 <h3 align="center">G I T H U B  - S T A T S</h3>
 <div align="center">
   
